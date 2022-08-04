@@ -6,7 +6,7 @@ Employee list for mobile app
 
 project nya ada di branch react-native
 
-untuk menjalankan project sesuaikan dulu apiurl pada Login.js, Register.js, AddEmployee.js, EmployeeList.js
+untuk menjalankan project sesuaikan dulu apiurl pada Login.js, Register.js, AddEmployee.js, EmployeeList.js . file ini tersimpan pada technicalTest/src/screens
 
 apiurl terdapat di:
 
