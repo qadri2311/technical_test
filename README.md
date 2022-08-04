@@ -11,7 +11,7 @@ untuk menjalankan project sesuaikan dulu apiurl pada Login.js, Register.js, AddE
 apiurl terdapat di:
 
 InsertRecord = () => {
-
+    ...
 
     if (
       no_Ktp.length == 0 ||
