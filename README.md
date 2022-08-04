@@ -11,12 +11,7 @@ untuk menjalankan project sesuaikan dulu apiurl pada Login.js, Register.js, AddE
 apiurl terdapat di:
 
 InsertRecord = () => {
-    var no_Ktp = this.state.no_Ktp;
-    var first_name = this.state.first_name;
-    var last_name = this.state.last_name;
-    var birth_date = this.state.birth_date;
-    var hometown = this.state.hometown;
-    var gender = this.state.gender;
+
 
     if (
       no_Ktp.length == 0 ||
