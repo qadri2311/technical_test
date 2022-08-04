@@ -26,7 +26,7 @@ class Login extends Component {
     if (username.length == 0 || password.length == 0 || name.length == 0) {
       alert('require data');
     } else {
-      var inserApiURL = 'http://192.168.18.10/ttest_dexa/registerUser.php';
+      var inserApiURL = 'http://192.168.68.106/ttest_dexa/registerUser.php';
 
       var header = {
         Accept: 'application/json',

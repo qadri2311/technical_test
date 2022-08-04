@@ -18,7 +18,7 @@ class EmployeeList extends Component {
 
       list: [],
     };
-    this.url = 'http://192.168.18.10/ttest_dexa/getEmployee.php';
+    this.url = 'http://192.168.68.106/ttest_dexa/getEmployee.php';
   }
 
   componentDidMount() {

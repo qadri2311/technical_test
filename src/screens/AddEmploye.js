@@ -47,7 +47,7 @@ class AddEmploye extends Component {
     ) {
       alert('Required Field Is Missing!!!');
     } else {
-      var inserApiURL = 'http://192.168.18.10/ttest_dexa/insertEmployee.php';
+      var inserApiURL = 'http://192.168.68.106/ttest_dexa/insertEmployee.php';
 
       var headers = {
         Accept: 'application/json',

@@ -25,7 +25,7 @@ class Login extends Component {
     if (username.length == 0 || password.length == 0) {
       alert('Required Field Is Missing!!!');
     } else {
-      var APIURL = 'http://192.168.18.10/ttest_dexa/login.php';
+      var APIURL = 'http://192.168.68.106/ttest_dexa/login.php';
 
       var headers = {
         Accept: 'application/json',
